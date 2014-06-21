@@ -1,0 +1,41 @@
+﻿生成启动时间为 2014/05/21 10:19:52。
+     1>项目“E:\Work\vs2010\AttackTheAircraft\AttackTheAircraft\AttackTheAircraft.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\AttackTheAircraft.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         E:\Programs\vs2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\AttackTheAircraft.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         E:\Programs\vs2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\AttackTheAircraft.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Aircraft.cpp AttackTheAircraft.cpp AttackTheAircraftDoc.cpp AttackTheAircraftView.cpp MainFrm.cpp
+         正在跳过...(未检测到相关更改)
+         MainFrm.cpp
+         AttackTheAircraftView.cpp
+         AttackTheAircraftDoc.cpp
+         AttackTheAircraft.cpp
+         Aircraft.cpp
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /IDebug\ /nologo /fo"Debug\AttackTheAircraft.res" AttackTheAircraft.rc 
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\AttackTheAircraft.exe.embed.manifest.res" Debug\AttackTheAircraft_manifest.rc 
+       Link:
+         E:\Programs\vs2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Work\vs2010\AttackTheAircraft\Debug\AttackTheAircraft.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\AttackTheAircraft.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\Work\vs2010\AttackTheAircraft\Debug\AttackTheAircraft.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Work\vs2010\AttackTheAircraft\Debug\AttackTheAircraft.lib" /MACHINE:X86 Debug\AttackTheAircraft.res
+         Debug\AttackTheAircraft.exe.embed.manifest.res
+         Debug\Aircraft.obj
+         Debug\AttackTheAircraft.obj
+         Debug\AttackTheAircraftDoc.obj
+         Debug\AttackTheAircraftView.obj
+         Debug\MainFrm.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\AttackTheAircraft.exe.embed.manifest" /manifest Debug\AttackTheAircraft.exe.intermediate.manifest E:\Programs\vs2010\VC\Include\Manifest\dpiaware.manifest
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         AttackTheAircraft.vcxproj -> E:\Work\vs2010\AttackTheAircraft\Debug\AttackTheAircraft.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\AttackTheAircraft.unsuccessfulbuild”。
+         正在对“Debug\AttackTheAircraft.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\Work\vs2010\AttackTheAircraft\AttackTheAircraft\AttackTheAircraft.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:16.38
