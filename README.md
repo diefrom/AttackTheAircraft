@@ -7,6 +7,7 @@ AttackTheAircraft
 ---
 
 游戏规则
+
 ![](http://cdrvl.img46.wal8.com/img46/521753_20150627105113/144645737094.jpg)
 
 * 一共30步，五架飞机。
